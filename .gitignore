@@ -1,0 +1,29 @@
+# Virtual Environment
+.venv/
+venv/
+env/
+
+# Environment variables & secrets
+.env
+.env.*
+!.env.example
+
+# Uploaded contract files
+app/uploads/*
+!app/uploads/.gitkeep
+uploads/*
+!uploads/.gitkeep
+
+# Python bytecode & cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDE & Editor files
+.vscode/
+.idea/
+*.swp
+
+# OS generated files
+.DS_Store
+Thumbs.db
