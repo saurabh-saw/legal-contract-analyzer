@@ -150,6 +150,4 @@ Access the application at:
 }
 ```
 
-## 📄 License
 
-Distributed under the MIT License. See `LICENSE` for details.
